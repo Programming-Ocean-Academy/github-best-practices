@@ -193,7 +193,7 @@ Assume secrets can leak — build guardrails
 .env.example
 
 yaml
-نسخ الكود
+
 - [ ] `CONTRIBUTING.md` explains how to contribute
 - [ ] `CODE_OF_CONDUCT.md` for community guidelines
 - [ ] `docs/` folder exists for extra documentation
@@ -343,11 +343,11 @@ jobs:
 📌 Project Requirements
 commitlint.config.js
 js
-نسخ الكود
+
 module.exports = { extends: ['@commitlint/config-conventional'] };
 package.json Scripts
 json
-نسخ الكود
+
 {
   "scripts": {
     "lint": "eslint .",
