@@ -21,7 +21,7 @@
 
 ##  2. Repository Structure
 
-- ✅ Use a **logical folder structure**:
+-  Use a **logical folder structure**:
 
 
 /src
